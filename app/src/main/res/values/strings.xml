@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mtaApp</string>
+    <string name="title_activity_maps">Map</string>
+<<<<<<< HEAD
+=======
+    <string name="title_activity_main">MainActivity</string>
+>>>>>>> "inserting files"
+</resources>
